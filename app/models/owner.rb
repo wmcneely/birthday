@@ -5,7 +5,7 @@ class Owner
 	 end
 
 	 def birthdate
-	 	 birthdate = Date.new(1966, 10, 5)
+	 	 birthdate = Date.new(1566, 10, 5)
 
 	 end
 
